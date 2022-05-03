@@ -1,0 +1,42 @@
+{
+    "email":"daniel@getarrays.com",
+    "imageUrl":"https://bootdey.com/img/Content/avater/avater1.png",
+    "jobTitle":"JavaScript",
+    "name":"Daniel Craig",
+    "phone":"4570090332"
+}
+{
+    "email":"christine@gmail.com",
+    "imageUrl":"https://bootdey.com/img/Content/avater/avater3.png",
+    "jobTitle":"UX/UI",
+    "name":"Christe smith",
+    "phone":"457009033"
+}
+{
+    "email":"christine@gmail.com",
+    "imageUrl":"https://bootdey.com/img/Content/avater/avater3.png",
+    "jobTitle":"UX/UI",
+    "name":"Mohammed Labaran",
+    "phone":"457009033"
+}
+{
+    "email":"christine@gmail.com",
+    "imageUrl":"https://bootdey.com/img/Content/avater/avater7.png",
+    "jobTitle":"UX/UI",
+    "name":"Mohammed Hafiz",
+    "phone":"457009033"
+}
+{
+    "email":"christine@gmail.com",
+    "imageUrl":"https://bootdey.com/img/Content/avater/avater3.png",
+    "jobTitle":"UX/UI",
+    "name":"Robert Dev",
+    "phone":"457009033"
+}
+{
+    "email":"christine@gmail.com",
+    "imageUrl":"https://bootdey.com/img/Content/avater/avater3.png",
+    "jobTitle":"UX/UI",
+    "name":"Christe smith",
+    "phone":"457009033"
+}
